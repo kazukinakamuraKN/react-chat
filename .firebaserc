@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-chat-ace60",
+    "react-chat": "react-chat-ace60"
+  }
+}
